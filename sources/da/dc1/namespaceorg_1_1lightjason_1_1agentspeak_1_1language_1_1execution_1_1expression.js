@@ -1,0 +1,13 @@
+var namespaceorg_1_1lightjason_1_1agentspeak_1_1language_1_1execution_1_1expression =
+[
+    [ "logical", "d1/d88/namespaceorg_1_1lightjason_1_1agentspeak_1_1language_1_1execution_1_1expression_1_1logical.html", "d1/d88/namespaceorg_1_1lightjason_1_1agentspeak_1_1language_1_1execution_1_1expression_1_1logical" ],
+    [ "numerical", "d2/d0c/namespaceorg_1_1lightjason_1_1agentspeak_1_1language_1_1execution_1_1expression_1_1numerical.html", "d2/d0c/namespaceorg_1_1lightjason_1_1agentspeak_1_1language_1_1execution_1_1expression_1_1numerical" ],
+    [ "CAtom", "da/d8f/classorg_1_1lightjason_1_1agentspeak_1_1language_1_1execution_1_1expression_1_1CAtom.html", "da/d8f/classorg_1_1lightjason_1_1agentspeak_1_1language_1_1execution_1_1expression_1_1CAtom" ],
+    [ "CProxyReturnExpression< T extends IExecution >", "d9/d9c/classorg_1_1lightjason_1_1agentspeak_1_1language_1_1execution_1_1expression_1_1CProxyReturnExprea3ab59ddfbb4b25a7f74f3e3902c345c.html", "d9/d9c/classorg_1_1lightjason_1_1agentspeak_1_1language_1_1execution_1_1expression_1_1CProxyReturnExprea3ab59ddfbb4b25a7f74f3e3902c345c" ],
+    [ "EOperator", "d7/d0b/enumorg_1_1lightjason_1_1agentspeak_1_1language_1_1execution_1_1expression_1_1EOperator.html", "d7/d0b/enumorg_1_1lightjason_1_1agentspeak_1_1language_1_1execution_1_1expression_1_1EOperator" ],
+    [ "IBaseBinary", "d9/d3a/classorg_1_1lightjason_1_1agentspeak_1_1language_1_1execution_1_1expression_1_1IBaseBinary.html", "d9/d3a/classorg_1_1lightjason_1_1agentspeak_1_1language_1_1execution_1_1expression_1_1IBaseBinary" ],
+    [ "IBaseUnary", "d9/d75/classorg_1_1lightjason_1_1agentspeak_1_1language_1_1execution_1_1expression_1_1IBaseUnary.html", "d9/d75/classorg_1_1lightjason_1_1agentspeak_1_1language_1_1execution_1_1expression_1_1IBaseUnary" ],
+    [ "IBinaryExpression", "d5/d25/interfaceorg_1_1lightjason_1_1agentspeak_1_1language_1_1execution_1_1expression_1_1IBinaryExpression.html", "d5/d25/interfaceorg_1_1lightjason_1_1agentspeak_1_1language_1_1execution_1_1expression_1_1IBinaryExpression" ],
+    [ "IExpression", "d7/d0e/interfaceorg_1_1lightjason_1_1agentspeak_1_1language_1_1execution_1_1expression_1_1IExpression.html", null ],
+    [ "IUnaryExpression", "d9/da2/interfaceorg_1_1lightjason_1_1agentspeak_1_1language_1_1execution_1_1expression_1_1IUnaryExpression.html", "d9/da2/interfaceorg_1_1lightjason_1_1agentspeak_1_1language_1_1execution_1_1expression_1_1IUnaryExpression" ]
+];

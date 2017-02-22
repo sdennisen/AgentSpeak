@@ -1,0 +1,7 @@
+var namespaceorg_1_1lightjason_1_1agentspeak_1_1language_1_1execution_1_1annotation =
+[
+    [ "CAtomAnnotation< T >", "d7/d9f/classorg_1_1lightjason_1_1agentspeak_1_1language_1_1execution_1_1annotation_1_1CAtomAnnotation_3_01T_01_4.html", "d7/d9f/classorg_1_1lightjason_1_1agentspeak_1_1language_1_1execution_1_1annotation_1_1CAtomAnnotation_3_01T_01_4" ],
+    [ "CNumberAnnotation< T extends Number >", "d8/dc8/classorg_1_1lightjason_1_1agentspeak_1_1language_1_1execution_1_1annotation_1_1CNumberAnnotation_3_01T_01extends_01Number_01_4.html", "d8/dc8/classorg_1_1lightjason_1_1agentspeak_1_1language_1_1execution_1_1annotation_1_1CNumberAnnotation_3_01T_01extends_01Number_01_4" ],
+    [ "IAnnotation< T >", "d5/d0a/interfaceorg_1_1lightjason_1_1agentspeak_1_1language_1_1execution_1_1annotation_1_1IAnnotation_3_01T_01_4.html", "d5/d0a/interfaceorg_1_1lightjason_1_1agentspeak_1_1language_1_1execution_1_1annotation_1_1IAnnotation_3_01T_01_4" ],
+    [ "IBaseAnnotation< T >", "db/d3f/classorg_1_1lightjason_1_1agentspeak_1_1language_1_1execution_1_1annotation_1_1IBaseAnnotation_3_01T_01_4.html", "db/d3f/classorg_1_1lightjason_1_1agentspeak_1_1language_1_1execution_1_1annotation_1_1IBaseAnnotation_3_01T_01_4" ]
+];

@@ -1,0 +1,5 @@
+var classorg_1_1lightjason_1_1agentspeak_1_1language_1_1execution_1_1annotation_1_1CNumberAnnotation_3_01T_01extends_01Number_01_4 =
+[
+    [ "CNumberAnnotation", "d8/dc8/classorg_1_1lightjason_1_1agentspeak_1_1language_1_1execution_1_1annotation_1_1CNumberAnnotation_3_01T_01extends_01Number_01_4.html#aff8062aaf721cc5621366ab0b8b1d080", null ],
+    [ "toString", "d8/dc8/classorg_1_1lightjason_1_1agentspeak_1_1language_1_1execution_1_1annotation_1_1CNumberAnnotation_3_01T_01extends_01Number_01_4.html#a75e2df23caa16088771966119d98dc1a", null ]
+];

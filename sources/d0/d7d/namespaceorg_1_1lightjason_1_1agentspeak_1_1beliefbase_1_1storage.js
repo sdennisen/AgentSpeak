@@ -1,0 +1,7 @@
+var namespaceorg_1_1lightjason_1_1agentspeak_1_1beliefbase_1_1storage =
+[
+    [ "CMultiStorage< N, M, T extends IAgent<?> >", "d2/d95/classorg_1_1lightjason_1_1agentspeak_1_1beliefbase_1_1storage_1_1CMultiStorage_3_01N_00_01M_00_0f76da3f13faeb8dccc4b0189b986a9c3.html", "d2/d95/classorg_1_1lightjason_1_1agentspeak_1_1beliefbase_1_1storage_1_1CMultiStorage_3_01N_00_01M_00_0f76da3f13faeb8dccc4b0189b986a9c3" ],
+    [ "CSingleStorage< N, M, T extends IAgent<?> >", "d2/d52/classorg_1_1lightjason_1_1agentspeak_1_1beliefbase_1_1storage_1_1CSingleStorage_3_01N_00_01M_00_a0ca30d8a5854c607f6e884a44d553ab.html", "d2/d52/classorg_1_1lightjason_1_1agentspeak_1_1beliefbase_1_1storage_1_1CSingleStorage_3_01N_00_01M_00_a0ca30d8a5854c607f6e884a44d553ab" ],
+    [ "IBaseStorage< N, M, T extends IAgent<?> >", "d7/dbb/classorg_1_1lightjason_1_1agentspeak_1_1beliefbase_1_1storage_1_1IBaseStorage_3_01N_00_01M_00_016289dff06ae4e554235ddebbeb261a8e.html", "d7/dbb/classorg_1_1lightjason_1_1agentspeak_1_1beliefbase_1_1storage_1_1IBaseStorage_3_01N_00_01M_00_016289dff06ae4e554235ddebbeb261a8e" ],
+    [ "IStorage< N, M, T extends IAgent<?> >", "d1/d0a/interfaceorg_1_1lightjason_1_1agentspeak_1_1beliefbase_1_1storage_1_1IStorage_3_01N_00_01M_00_015449484fab1a959f046b75ce7f8e944b.html", "d1/d0a/interfaceorg_1_1lightjason_1_1agentspeak_1_1beliefbase_1_1storage_1_1IStorage_3_01N_00_01M_00_015449484fab1a959f046b75ce7f8e944b" ]
+];

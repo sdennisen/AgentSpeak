@@ -1,0 +1,5 @@
+var interfaceorg_1_1lightjason_1_1agentspeak_1_1agent_1_1fuzzy_1_1IFuzzy_3_01T_00_01S_01extends_01IAgent_3_04_4_01_4 =
+[
+    [ "getDefuzzyfication", "d9/d95/interfaceorg_1_1lightjason_1_1agentspeak_1_1agent_1_1fuzzy_1_1IFuzzy_3_01T_00_01S_01extends_01IAgent_3_04_4_01_4.html#a74d7618fe7e91cf754a650a1bcbe778b", null ],
+    [ "getResultOperator", "d9/d95/interfaceorg_1_1lightjason_1_1agentspeak_1_1agent_1_1fuzzy_1_1IFuzzy_3_01T_00_01S_01extends_01IAgent_3_04_4_01_4.html#a2982803b901274cd1b657daa2f555201", null ]
+];

@@ -1,0 +1,5 @@
+var classorg_1_1lightjason_1_1agentspeak_1_1action_1_1buildin_1_1math_1_1statistic_1_1CExponentialProportionateSelection =
+[
+    [ "additionalArgumentNumber", "db/d93/classorg_1_1lightjason_1_1agentspeak_1_1action_1_1buildin_1_1math_1_1statistic_1_1CExponentialProportionateSelection.html#ae08184df4741f2a78b6ae93bb271a000", null ],
+    [ "weight", "db/d93/classorg_1_1lightjason_1_1agentspeak_1_1action_1_1buildin_1_1math_1_1statistic_1_1CExponentialProportionateSelection.html#a97b299ca96011ca19850c13d8f69d05a", null ]
+];
